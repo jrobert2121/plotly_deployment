@@ -7,8 +7,8 @@ Utilizing data from the samples.json file, visualizations must be created for re
 Create three different charts to allow users to visualize the research data and deploy the resulting dashboard to a webpage.  Users should be able to select their unique ID number from the dropdown and the charts should update with the appropriate data.
 
 ## Resources
-Data Source: [samples.json](samples.json)
-Software: JavaScript, HTML, Plotly, D3, Visual Studio Code
+ - Data Source: [samples.json](samples.json)
+ - Software: JavaScript, HTML, Plotly, D3, Visual Studio Code
 
 ## Results - [Dashboard](https://jrobert2121.github.io/plotly_deployment/)
 
