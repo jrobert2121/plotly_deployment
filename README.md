@@ -10,7 +10,7 @@ Create three different charts to allow users to visualize the research data and 
  - Data Source: [samples.json](samples.json)
  - Software: JavaScript, HTML, Plotly, D3, Visual Studio Code
 
-## Results - [Dashboard](https://jrobert2121.github.io/plotly_deployment/)
+## Results - [View Dashboard](https://jrobert2121.github.io/plotly_deployment/)
 
 Three charts were created using JavaScript and Plotly:
  - Horizontal Bar Chart: used to display the top 10 bacterial species for the selected ID with hover text.
